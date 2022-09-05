@@ -1,0 +1,93 @@
+.navbar {
+    font-family: Heebo;
+}
+.page-content   {
+    font-family: Heebo;
+}
+.page-content h3    {
+    font-weight: bold;
+}
+.page-auth  {
+    font-family: Heebo;
+}
+.page-auth .row-login {
+    min-height: 70vh;
+}
+
+.section-store-auth h2 {
+    font-size: 28px;
+    color: #212121;
+    font-weight: 600;
+    margin-top: 0;
+}
+
+.section-store-auth h2 span {
+  font-weight: 600;
+  font-size: 28px;
+  color: #ff7171 !important;
+}
+
+.form-control {
+    background: #f3f3f3;
+    border-radius: 8px;
+}
+
+.btn-login {
+    background-color: #28A745;
+}
+
+.btn-signup {
+    background-color: #f5f5f5;
+    color: #bbb;
+}
+
+/* Mobile Version */
+@media (min-width: 200px) {
+
+    .harus-login-modal {
+      margin-right: auto;
+      margin-left: auto;
+    }
+}
+
+.regist-succes-modal img {
+  width: 150px;
+}
+
+.regist-succes-modal h3 {
+  font-weight: bold;
+  color: black;
+}
+
+.regist-succes-modal p {
+  font-weight: 200;
+}
+
+.regist-succes-modalmodal .btn-login {
+  background-color: #28A745;
+}
+
+.border {
+    color: white;
+    font-family: Heebo;
+}
+
+.modal {
+    font-family: Heebo;
+}
+
+.row-login {
+    font-family: Heebo;
+}
+
+.section-store-auth h3 {
+  font-size: 30px;
+  color: #333;
+  font-weight: 600;
+}
+
+.section-store-auth .judul span {
+  font-weight: 600;
+  font-size: 28px;
+  color: #ff7171 !important;
+}
